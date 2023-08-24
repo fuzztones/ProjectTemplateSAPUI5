@@ -1,0 +1,17 @@
+<mvc:View 
+	controllerName="com.sample.project.controller.Main" 
+	displayBlock="true" 
+	xmlns:mvc="sap.ui.core.mvc" 
+	xmlns="sap.m" 
+	xmlns:core="sap.ui.core" 
+	xmlns:html="http://www.w3.org/1999/xhtml" 
+	xmlns:app="http://schemas.sap.com/sapui5/extension/sap.ui.core.CustomData/1">
+
+    <Page id="page" title="{i18n>title}" showHeader="false">
+        <content>
+			<VBox>
+				<Text text="Sample Project" />
+			</VBox>
+        </content>
+    </Page>
+</mvc:View>

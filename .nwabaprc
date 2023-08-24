@@ -1,0 +1,13 @@
+{ 
+    "base": "./dist", 
+    "conn_usestrictssl" : false, 
+    "conn_server": "",
+    "conn_client" : "", 
+    "conn_user": "",       
+    "conn_password": "",   
+    "abap_package": "",      
+    "abap_bsp": "",  
+    "abap_bsp_text": "",
+    "abap_transport": ""
+} 
+
